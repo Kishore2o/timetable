@@ -120,5 +120,6 @@ Execute the program
     </body>
     </html>
 ```
-# OUPUT
-![OUTPUT](./timetable/Kishore Timetable.png)
+# OUTPUT
+![Kishore Timetable](https://user-images.githubusercontent.com/118679883/211509083-9fc97ad7-a190-4c19-acd1-c974adc6aae9.png)
+
